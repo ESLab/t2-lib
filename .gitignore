@@ -1,0 +1,6 @@
+*.o
+*.mex*
+*.dat
+*.so
+*~
+matlab.mat

@@ -1,0 +1,1 @@
+Here's the library that allows decoding of LDPC codes. Currently it only supports CUDA GPU decoding, however fast SIMD x86 support will likely be added soon!
